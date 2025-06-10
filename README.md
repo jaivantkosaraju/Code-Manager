@@ -48,11 +48,14 @@ python3 server.py
 
 ### Branching
 ./vcs createbranch feature-x
+
 ./vcs switch feature-x
 
 ### Remote operations (requires server)
 ./vcs clone <remote_url> <dir>
+
 ./vcs push
+
 ./vcs pull
 
 Project Structure
