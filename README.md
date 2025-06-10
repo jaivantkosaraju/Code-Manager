@@ -34,23 +34,23 @@ A lightweight, Git-inspired version control system for tracking file changes wit
 - Python 3.8+ (for server)
 - OpenSSL (for SHA hashing)
 
-# Start server (requires Flask)
+### Start server (requires Flask)
 python3 server.py
 
-# Initialize repository
+### Initialize repository
 ./vcs init
 
-# Stage files
+### Stage files
 ./vcs add <filename>
 
-# Commit changes
+### Commit changes
 ./vcs commit "message"
 
-# Branching
+### Branching
 ./vcs createbranch feature-x
 ./vcs switch feature-x
 
-# Remote operations (requires server)
+### Remote operations (requires server)
 ./vcs clone <remote_url> <dir>
 ./vcs push
 ./vcs pull
