@@ -21,9 +21,6 @@ Prerequisites
 C++17 compiler (GCC/Clang)
 Python 3.8+ (for server)
 OpenSSL (for SHA hashing)
-# Clone the repository
-git clone https://github.com/your-username/FVCS.git
-cd FVCS
 
 # Start server (requires Flask)
 python3 server.py
