@@ -1,4 +1,4 @@
-# File Manager
+# Code Manager
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![C++: 17](https://img.shields.io/badge/C++-17-blue.svg)
 ![Python: 3.8+](https://img.shields.io/badge/Python-3.8+-green.svg)
