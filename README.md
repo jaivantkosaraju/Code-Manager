@@ -12,7 +12,7 @@ A lightweight, Git-inspired version control system for tracking file changes wit
 
 ### Core Version Control
 - Commit history with diffs
-- Branching and merging
+- Branching
 - Custom LCS-based diff algorithm
 
 ### Remote Sync
