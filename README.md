@@ -1,8 +1,3 @@
-# Code Manager
-![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
-![C++: 17](https://img.shields.io/badge/C++-17-blue.svg)
-![Python: 3.8+](https://img.shields.io/badge/Python-3.8+-green.svg)
-![Flask: 2.0](https://img.shields.io/badge/Flask-2.0-red.svg)
 
 A lightweight, Git-inspired version control system for tracking file changes with local/remote collaboration capabilities.
 
